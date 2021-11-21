@@ -1,0 +1,55 @@
+{
+  "plans": [
+    {
+      "id": 1, 
+      "planName" : "Silver",
+      "minPakcageCount" : 2,
+      "weeklyPlanPrice" : 44.99,
+      "monthlyPlanPrice" : 139.99,
+      "packages":[
+        {
+          "id": 1,
+          "package name": "US Sports",
+          "package description": "NBA(National  Basketball Association), MLS (Major League Soccer), MLB (Major League Baseball), NFL (National Football League), NHL (National Hockey League)"
+        },
+        {
+          "id": 2,
+          "package name": "AU Sports",
+          "package description": "NBA (National Basketball Association), MLS (Major League Soccer), MLB (Major League Baseball), NFL (National Football League), NHL (National Hockey League)"
+        },
+        {
+          "id": 3,
+          "package name": "EU Football",
+          "package description": "NBA (National Basketball Association), MLS (Major League Soccer), MLB (Major League Baseball), NFL (National Football League), NHL (National Hockey League)"
+        },
+        {
+          "id": 4,
+          "package name": "AU Horse Racing",
+          "package description": "NBA (National Basketball Association), MLS (Major League Soccer), MLB (Major League Baseball), NFL (National Football League), NHL (National Hockey League)"
+        }
+
+
+      ]
+    },
+    {
+      "id": 2, 
+      "planName" : "Gold",
+      "minPakcageCount" : 3,
+      "weeklyPlanPrice" : 59.99,
+      "monthlyPlanPrice" : 189.99,
+      "packages":[
+        {
+          "id": 1,
+          "package name": "US Sports",
+          "package description": "NBA(National  Basketball Association), MLS (Major League Soccer), MLB (Major League Baseball), NFL (National Football League), NHL (National Hockey League)"
+        },
+        {
+          "id": 2,
+          "package name": "AU Sports",
+          "package description": "NBA (National Basketball Association), MLS (Major League Soccer), MLB (Major League Baseball), NFL (National Football League), NHL (National Hockey League)"
+        }
+      ]
+    }
+    
+  ]
+}
